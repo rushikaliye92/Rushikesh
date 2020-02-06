@@ -5,4 +5,5 @@ ECHO "MY Self Rushid" ;
 ECHO "New Changes Done" ;
 ECHO "need to update local changes into remote" ;
 echo "Hello";
+echo "Hello Rushi";
 ?>
